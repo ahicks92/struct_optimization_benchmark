@@ -1,0 +1,36 @@
+[package]
+name = "crate_fetch"
+version = "0.1.0"
+authors = ["Austin Hicks <camlorn@camlorn.net>"]
+
+[dependencies]
+target_build_utils = "*"
+mio = "*"
+#the futures ecosystem
+futures = "0.1.0"
+futures-cpupool = "0.1.0"
+# the tokio ecosystem
+tokio = "*"
+tokio-core = "*"
+#gfx
+gfx = "*"
+#from crates.io top downloads, picked out some that are interesting.
+rand = "*"
+time = "*"
+num = "*"
+regex = "*"
+aho-corasick = "*"
+hyper = "*"
+term = "*"
+log = "*"
+rustc-serialize = "*"
+#The piston ecosystem
+dyon = "*"
+#amethyst ecosystem
+amethyst = "*"
+# SOme compression packages.
+brotli = "*"
+bzip2 = "0.2"
+flate2 = "0.2"
+
+pulldown-cmark = "*"

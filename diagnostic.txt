@@ -1,0 +1,213 @@
+Maximum improvement 72
+Number of optimized types 105
+
+std::iter::FilterMap<std::iter::FilterMap<std::str::Split<char>, [closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-0.9.13/src/header/parsing.rs:31:35: 34:24]>, [closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-0.9.13/src/header/parsing.rs:35:35: 35:53]> optimized by 8 bytes
+
+std::result::Result<client::response::Response, error::Error> optimized by 8 bytes
+
+collections::btree::node::InternalNode<u8, std::vec::Vec<std::string::String>> optimized by 8 bytes
+
+std::str::pattern::CharEqSearcher<char> optimized by 8 bytes
+
+mpsc_queue::Node<reactor::Message> optimized by 8 bytes
+
+gcc::Config optimized by 16 bytes
+
+std::fmt::DebugTuple optimized by 8 bytes
+
+state::Rasterizer optimized by 4 bytes
+
+std::result::Result<server::response::Response<net::Streaming>, std::io::Error> optimized by 8 bytes
+
+std::sys::imp::process::Command optimized by 8 bytes
+
+tex::Kind optimized by 2 bytes
+
+std::iter::Map<std::str::RSplitN<char>, [closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-0.9.13/src/header/shared/quality_item.rs:80:54: 80:66]> optimized by 8 bytes
+
+[closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-core-0.1.1/src/reactor/mod.rs:525:24: 546:10 msg:reactor::Message, self:&&reactor::Remote] optimized by 8 bytes
+
+std::result::Result<(gfx_core::pso::Element<gfx_core::format::Format>, u8), gfx_core::format::Format> optimized by 4 bytes
+
+aho_corasick::State<aho_corasick::Dense> optimized by 8 bytes
+
+std::option::Option<parse::Container> optimized by 8 bytes
+
+std::str::RSplitN<char> optimized by 8 bytes
+
+std::process::Command optimized by 8 bytes
+
+std::option::Option<http::session::DefaultStream> optimized by 8 bytes
+
+core::iter::Skip<core::str::Split<char>> optimized by 8 bytes
+
+tex::DepthStencilDesc optimized by 2 bytes
+
+std::option::Option<std::str::Split<char>> optimized by 8 bytes
+
+std::result::Result<hyper::client::Response, hyper::Error> optimized by 8 bytes
+
+std::cell::UnsafeCell<std::io::LineWriter<std::io::stdio::Maybe<std::io::stdio::StdoutRaw>>> optimized by 8 bytes
+
+std::cell::RefCell<std::io::LineWriter<std::io::stdio::Maybe<std::io::stdio::StdoutRaw>>> optimized by 8 bytes
+
+std::str::SplitTerminator<char> optimized by 8 bytes
+
+std::io::BufWriter<std::io::stdio::Maybe<std::io::stdio::StdoutRaw>> optimized by 8 bytes
+
+std::option::Option<http::frame::data::DataFrame> optimized by 8 bytes
+
+core::str::MatchIndicesInternal<char> optimized by 8 bytes
+
+alloc::arc::ArcInner<std::sys_common::remutex::ReentrantMutex<std::cell::RefCell<std::io::LineWriter<std::io::stdio::Maybe<std::io::stdio::StdoutRaw>>>>> optimized by 8 bytes
+
+http::frame::data::DataFrame optimized by 8 bytes
+
+std::iter::Map<std::iter::Filter<std::str::Split<char>, [closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/pkg-config-0.3.8/src/lib.rs:370:35: 370:50]>, [closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/pkg-config-0.3.8/src/lib.rs:371:32: 371:61]> optimized by 8 bytes
+
+literals::SingleSearch optimized by 8 bytes
+
+compile::Compiler optimized by 16 bytes
+
+http::session::DefaultStream optimized by 8 bytes
+
+parse::RawParser optimized by 8 bytes
+
+collections::btree::node::InsertResult<u8, std::vec::Vec<std::string::String>, collections::btree::node::marker::Leaf> optimized by 8 bytes
+
+core::str::SplitInternal<char> optimized by 8 bytes
+
+prog::Program optimized by 16 bytes
+
+std::iter::Map<std::iter::Map<std::str::Split<char>, [closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-0.9.13/src/header/common/prefer.rs:127:43: 138:10]>, [closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-0.9.13/src/header/common/prefer.rs:141:62: 141:99]> optimized by 8 bytes
+
+hyper::client::Response optimized by 8 bytes
+
+std::iter::Map<std::str::Split<char>, [closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-0.9.13/src/header/common/prefer.rs:127:43: 138:10]> optimized by 8 bytes
+
+std::result::Result<(), Error> optimized by 29 bytes
+
+collections::btree::node::InsertResult<u8, std::vec::Vec<std::string::String>, collections::btree::node::marker::Internal> optimized by 8 bytes
+
+core::fmt::DebugTuple optimized by 8 bytes
+
+std::result::Result<std::option::Option<reactor::Message>, std::io::Error> optimized by 8 bytes
+
+std::result::Result<prog::Program, error::Error> optimized by 16 bytes
+
+pipeline::stage::Step optimized by 8 bytes
+
+sys::wait::WaitStatus optimized by 4 bytes
+
+core::str::pattern::CharEqSearcher<char> optimized by 8 bytes
+
+std::result::Result<hyper::client::Response, std::string::String> optimized by 8 bytes
+
+std::iter::Filter<std::str::Split<char>, [closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/pkg-config-0.3.8/src/lib.rs:370:35: 370:50]> optimized by 8 bytes
+
+mpsc_queue::PopResult<reactor::Message> optimized by 8 bytes
+
+version_req::Lexer optimized by 8 bytes
+
+Config optimized by 16 bytes
+
+core::str::pattern::CharSearcher optimized by 8 bytes
+
+server::response::Response optimized by 8 bytes
+
+std::option::Option<(u32, http::session::DefaultStream)> optimized by 8 bytes
+
+tex::Descriptor optimized by 2 bytes
+
+std::option::Option<(pso::Element<format::Format>, u8)> optimized by 4 bytes
+
+std::str::Split<char> optimized by 8 bytes
+
+origin::Origin optimized by 8 bytes
+
+pso::InitError optimized by 8 bytes
+
+gfx_core::pso::Element<gfx_core::format::Format> optimized by 4 bytes
+
+client::async::ClientService optimized by 8 bytes
+
+gfx_core::shade::ConstantBufferVar optimized by 8 bytes
+
+std::iter::Map<std::iter::Map<std::str::Split<char>, fn(&str) -> &str {std::str::<impl str>::trim}>, [closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-0.9.13/src/header/common/strict_transport_security.rs:88:18: 103:14]> optimized by 8 bytes
+
+std::str::MatchIndices<char> optimized by 8 bytes
+
+[closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-core-0.1.1/src/reactor/mod.rs:553:31: 560:14 self:&&reactor::Remote, f:[closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-core-0.1.1/src/reactor/mod.rs:525:24: 546:10 msg:reactor::Message, self:&&reactor::Remote]] optimized by 8 bytes
+
+std::iter::Map<std::str::Split<char>, fn(&str) -> &str {std::str::<impl str>::trim}> optimized by 8 bytes
+
+client::response::Response optimized by 8 bytes
+
+core::str::SplitNInternal<char> optimized by 8 bytes
+
+parse::Container optimized by 8 bytes
+
+std::str::SplitN<char> optimized by 8 bytes
+
+literals::LiteralSearcher optimized by 16 bytes
+
+std::option::Option<std::process::Command> optimized by 8 bytes
+
+std::str::pattern::CharSearcher optimized by 8 bytes
+
+http::client::RequestStream<http::session::DefaultStream> optimized by 8 bytes
+
+std::option::Option<reactor::Message> optimized by 8 bytes
+
+std::result::Result<sys::wait::WaitStatus, Error> optimized by 4 bytes
+
+std::option::Option<std::result::Result<(gfx_core::pso::Element<gfx_core::format::Format>, u8), gfx_core::format::Format>> optimized by 4 bytes
+
+unicode_normalization::Decompositions<std::str::Chars> optimized by 8 bytes
+
+reactor::Message optimized by 8 bytes
+
+passes::Parser optimized by 8 bytes
+
+std::iter::Map<std::str::Split<char>, [closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.4/src/terminfo/parser/compiled.rs:105:49: 105:66]> optimized by 8 bytes
+
+std::iter::Map<std::str::MatchIndices<char>, [closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/openssl-verify-0.1.0/src/lib.rs:134:55: 134:65]> optimized by 8 bytes
+
+std::io::LineWriter<std::io::stdio::Maybe<std::io::stdio::StdoutRaw>> optimized by 8 bytes
+
+lifetime::node::Node optimized by 16 bytes
+
+pso::Descriptor optimized by 72 bytes
+
+shade::ConstantBufferVar optimized by 8 bytes
+
+terminfo::parm::States optimized by 8 bytes
+
+std::iter::Map<std::str::SplitTerminator<char>, core::str::LinesAnyMap> optimized by 8 bytes
+
+pso::Element<format::Format> optimized by 4 bytes
+
+std::str::Lines optimized by 8 bytes
+
+exec::ExecReadOnly optimized by 64 bytes
+
+unicode_normalization::Recompositions<std::str::Chars> optimized by 16 bytes
+
+std::iter::Map<std::str::Split<char>, [closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/num_cpus-1.1.0/src/lib.rs:30:52: 30:64]> optimized by 8 bytes
+
+std::sys_common::remutex::ReentrantMutex<std::cell::RefCell<std::io::LineWriter<std::io::stdio::Maybe<std::io::stdio::StdoutRaw>>>> optimized by 8 bytes
+
+std::result::Result<http::frame::data::DataFrame, http::HttpError> optimized by 8 bytes
+
+server::response::Response<net::Streaming> optimized by 8 bytes
+
+draw_state::state::Rasterizer optimized by 4 bytes
+
+collections::btree::node::LeafNode<u8, std::vec::Vec<std::string::String>> optimized by 8 bytes
+
+alloc::arc::ArcInner<exec::ExecReadOnly> optimized by 64 bytes
+
+core::str::Split<char> optimized by 8 bytes
+
+std::iter::FilterMap<std::str::Split<char>, [closure@/home/camlorn/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-0.9.13/src/header/parsing.rs:31:35: 34:24]> optimized by 8 bytes
+
